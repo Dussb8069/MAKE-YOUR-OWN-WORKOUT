@@ -59,7 +59,9 @@ p2{
     color: yellowgreen;
     position: absolute;
     line-height: 1em;
-    top: 0.5em;
+    top: 33vw;
+    padding-left: 20vw;
+    padding-right: 30vw;
 
 }
 
